@@ -1,2 +1,12 @@
-# music-express-koa-api
-music express-koa api
+netmusic-api
+---
+
+
+Usage
+---
+
+```
+npm install
+
+npm run dev
+```
