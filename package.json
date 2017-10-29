@@ -1,0 +1,29 @@
+{
+    "name": "music-express-koa-api",
+    "version": "1.0.0",
+    "description": "music express-koa api",
+    "main": "app.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/poetries/music-express-koa-api.git"
+    },
+    "keywords": [
+        "music",
+        "api"
+    ],
+    "author": "poetries",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/poetries/music-express-koa-api/issues"
+    },
+    "homepage": "https://github.com/poetries/music-express-koa-api#readme",
+    "dependencies": {
+        "express": "^4.14.0",
+        "tough-cookie": "^2.2.2",
+        "big-integer": "^1.6.15",
+        "request": "^2"
+    }
+}
