@@ -10,3 +10,8 @@ npm install
 
 npm run dev
 ```
+
+snapShot
+---
+
+![](snapshot/api.png)
