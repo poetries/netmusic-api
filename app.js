@@ -1001,7 +1001,7 @@ var hostname = "http://localhost:" + port;
 app.get("/api", function(req, res) {
     var data = {
         author: "poetries",
-        api_desc_detail: "https://github.com/poetries/netmusic-api/app.js",
+        api_desc_detail: "https://github.com/poetries/netmusic-api/blob/master/app.js",
         login_info_checked: hostname + dir + "/login/refresh",
         get_banner: hostname + dir + "/banner",
         playlist: hostname + dir + "/playlist/catlist",
